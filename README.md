@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/03dfb5cb80dc9921ed16f.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/98894fd2e93272674a048.jpg"></p>
 
 <h4 align="center">
     A Telegram Powerful Group Managment Bot written in Python using Pyrogram and Telethon.
